@@ -1,2 +1,15 @@
 # SuperAgent
-A SuperAgent which can perform complex tasks like DeepResearch etc
+
+Minimal scaffold for a multi-agent orchestration service.
+
+## Running the CLI
+
+```bash
+python scripts/run_cli.py
+```
+
+## Running tests
+
+```bash
+pytest
+```
